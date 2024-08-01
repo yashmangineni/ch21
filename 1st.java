@@ -2,7 +2,7 @@ class largest{
 public static void main(String args[])
 {
 int a=10,b=-3,c=30;
-if(a>b && a>c)
+if(a>b && fnje)
 {
 if(b>c)
 {
